@@ -67,6 +67,31 @@ To run the TriggerPay prototype locally:
    - **Worker Login:** Click "Worker Access" from the landing page. Select "Existing" and enter `001`, `002`, or `003` to view populated worker dashboards. Alternatively, select "New" to experience the AI Risk Onboarding flow.
    - **Admin Login:** Click "Admin Demo" directly from the landing page to access the powerful Disruption Nerve Center, Claims Queue, and Fraud Detection dashboards.
 
+
+## Conversational AI Assistant
+
+To further simplify user interaction, TriggerPay includes a built-in **conversational AI assistant** designed specifically for gig workers.
+
+Instead of navigating complex menus, users can interact naturally to:
+- Check active coverage and weekly premium  
+- Understand recent payouts  
+- Get clarification on disruption triggers  
+- Raise support queries or fallback claims  
+
+The assistant acts as a lightweight interface layer over the system, making the platform more accessible, especially for users who prefer quick, conversational interactions over traditional UI flows.
+
+### Why it matters
+Gig workers operate under time pressure and cannot afford to navigate complex interfaces.  
+The conversational assistant reduces friction by enabling **fast, intuitive access to critical information**.
+
+### Example Interaction
+User: "Was there any payout today?"
+Bot: "Yes, a payout of ₹320 was processed due to heavy rainfall in your area."
+
+User: "Am I covered this week?"
+Bot: "Your policy is active with a weekly premium of ₹49."
+This feature enhances usability while aligning with our goal of making income protection **simple, instant, and user-friendly**.
+
 ## 💡 The "Why" for Guidewire Devtrails
 
 Gig workers are highly vulnerable to localized climate & socio-economic disruptions. Traditional insurance products are too expensive, require immense paperwork, and take weeks to process a simple ₹500 payout. 
